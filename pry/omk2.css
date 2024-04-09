@@ -1,0 +1,118 @@
+/* Body styles */
+body {
+    background: linear-gradient(135deg, #2980b9, #2c3e50); /* Gradient background */
+    font-family: Arial, sans-serif;
+    color: #fff; /* White text color */
+    margin: 0;
+    padding: 0;
+    position: relative; /* Position relative for absolute positioning of shapes */
+}
+
+/* Content styles */
+#content {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    position: relative; /* Position relative for absolute positioning of shapes */
+}
+
+/* Form styles */
+.form-style {
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+/* Input styles */
+input[type="file"],
+input[type="number"],
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #333; /* Dark text color for inputs */
+    background-color: #fff; /* White background for inputs */
+}
+
+/* Submit button styles */
+.submit-btn {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: #45a049;
+}
+
+/* Result section styles */
+#result {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Heading styles */
+h1 {
+    color: #333; /* Dark text color for headings */
+}
+
+/* Label styles */
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Shapes */
+.shape1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 150px;
+    background-color: #ff6b6b; /* Red */
+    clip-path: polygon(0% 0%, 100% 0%, 0% 100%);
+}
+
+.shape2 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 150px;
+    height: 150px;
+    background-color: #3498db; /* Blue */
+    clip-path: polygon(100% 0%, 100% 100%, 0% 100%);
+}
+
+.shape3 {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: #2ecc71; /* Green */
+    border-radius: 50%;
+}
+
+.shape4 {
+    position: absolute;
+    top: 50%;
+    right: 50px;
+    transform: translateY(-50%);
+    width: 100px;
+    height: 100px;
+    background-color: #f39c12; /* Orange */
+    border-radius: 50%;
+}

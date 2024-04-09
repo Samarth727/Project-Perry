@@ -1,0 +1,72 @@
+/* Styles for the body */
+body {
+    background-color: #860000;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles for the content */
+#content {
+    background-color: #9101ff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+}
+
+/* Styles for the form */
+.form-style {
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+/* Styles for input fields */
+input[type="file"],
+input[type="number"],
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+/* Styles for the submit button */
+.submit-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: #45a049;
+}
+
+/* Styles for the result section */
+#result {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Styles for headings */
+h1 {
+    color: #333;
+}
+
+/* Styles for labels */
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
