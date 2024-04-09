@@ -48,13 +48,13 @@ Contributions are welcome! If you'd like to contribute to this project, please f
  
 ### Outputs
 	# Study Planner
- 		![study1](https://github.com/Samarth727/Project-Perry/assets/140046343/06da2ecb-748e-48fe-8026-d32ce8a932b6)
-   		![study2](https://github.com/Samarth727/Project-Perry/assets/140046343/983dad69-2eaa-48d3-b052-4e6117493479)
-		![study3](https://github.com/Samarth727/Project-Perry/assets/140046343/af430246-38ed-4cc9-b9f0-baca5ab4a016)
-		![study4](https://github.com/Samarth727/Project-Perry/assets/140046343/5629e9f6-6e7e-4c1e-90c2-5db5843146d3)
+ 		![study1](pry/img/study1.png)
+   		![study2](pry/img/study2.png)
+		![study3](pry/img/study3.png)
+		![study4](pry/img/study4.png)
 
 	# Q&A
- 		![qanda](https://github.com/Samarth727/Project-Perry/assets/140046343/d8227078-5fdf-4719-b2fd-9f3c1a40269d)
+ 		![qanda](pry/img/qanda.png)
 
  	# Summarizer
-  		![summarize](https://github.com/Samarth727/Project-Perry/assets/140046343/b6fea9b2-00f8-43d1-8a4f-cac8fd4e39b2)
+  		![summarize](pry/img/summarize.png)
