@@ -36,18 +36,18 @@ Contributions are welcome! If you'd like to contribute to this project, please f
   6. Create a new Pull Request.
 
 ## Install the following python libraries:
-  1. pip install nltk
-  2.pip install Flask pdfminer.six
-  3.pip install pdfminer.six
-  4.pip install sumy
+  1. pip install nltk.
+  2.pip install Flask pdfminer.six.
+  3.pip install pdfminer.six.
+  4.pip install sumy.
 
 
-### Screenshorts
+## Screenshorts
 
-## Site Snippet
+### Site Snippet
 	![Site](https://github.com/Samarth727/Project-Perry/assets/140046343/2e053365-4d76-4e23-bdc8-be14f947f27a)
  
-## Outputs
+### Outputs
 	# Study Planner
  		![study1](https://github.com/Samarth727/Project-Perry/assets/140046343/06da2ecb-748e-48fe-8026-d32ce8a932b6)
    		![study2](https://github.com/Samarth727/Project-Perry/assets/140046343/983dad69-2eaa-48d3-b052-4e6117493479)
