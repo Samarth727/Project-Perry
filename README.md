@@ -36,10 +36,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
   6. Create a new Pull Request.
 
 ## Install the following python libraries:
-  1. pip install nltk.
-  2.pip install Flask pdfminer.six.
-  3.pip install pdfminer.six.
-  4.pip install sumy.
+  1.'pip install nltk'
+  2.'pip install Flask pdfminer.six'
+  3.'pip install pdfminer.six'
+  4.'pip install sumy'
 
 
 ## Screenshorts
