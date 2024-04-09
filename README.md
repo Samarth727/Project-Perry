@@ -44,7 +44,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Screenshorts
 
 ### Site Snippet
-	![Site](https://github.com/Samarth727/Project-Perry/assets/140046343/2e053365-4d76-4e23-bdc8-be14f947f27a)
+	![Site](pry/img/Site.jpg)
  
 ### Outputs
 	# Study Planner
